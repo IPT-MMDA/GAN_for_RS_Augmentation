@@ -1,15 +1,12 @@
 #!/usr/bin/env python
 import numpy as np
-import random
 
 import tensorflow as tf
-from tensorflow.python.lib.io import file_io
 import argparse
 import os
 
 import matplotlib.pyplot as plt
 
-from tensorflow.keras.models import Model, load_model
 from tensorflow.keras.layers import Input
 from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint, ReduceLROnPlateau
 from tensorflow.keras.optimizers import Adam
