@@ -4,7 +4,7 @@ Under revision in the Remote Sensing Letters journal
 
 ## Data preparation
 
-## GAN traing
+## GAN training
 
 ## Segmentation models training
 
