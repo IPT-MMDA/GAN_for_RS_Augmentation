@@ -1,9 +1,12 @@
 # Generative Adversarial Network Augmentation for Solving the Training Data Imbalance Problem in Crop Classification
 Suplementary material for the corresponding paper at the Remote Sensing Letters journal.
 
+
 Under revision in the Remote Sensing Letters journal
 ## Intro
 The paper presents a novel data augmentation method employing Generative Adversarial Neural Networks (GANs) with pixel-to-pixel transformation (pix2pix). This approach generates realistic synthetic satellite images with artificial ground truth masks, even for rare crop class distributions. It enables the creation of additional minority class samples, enhancing control over training data balance and outperforming traditional augmentation methods.
+
+![uw_scheme2](https://github.com/IPT-MMDA/GAN_for_RS_Augmentation/assets/142814789/4baf33a8-83cc-4e4b-96d2-627e35cb3929)
 
 ## Data preparation
 
