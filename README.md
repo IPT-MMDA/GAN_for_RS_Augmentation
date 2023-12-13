@@ -74,7 +74,7 @@ To start training, run the file:
 
 ## Evaluation
 
-To evaluate al four models check the paths at /home/anton/Downloads/GAN_for_RS_Augmentation-master/eval/compare_models_performance.py file and run it:
+To evaluate all four models check the paths at /home/anton/Downloads/GAN_for_RS_Augmentation-master/eval/compare_models_performance.py file and run it:
 
 ```bash
 export PYTHONPATH=$PYTHONPATH:$(cd utils && pwd)
